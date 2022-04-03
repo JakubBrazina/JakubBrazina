@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JakubBrazina currently doing Ph.D. on the Institute of production machines, systems and robotics, 
-- Faculty of mechanical engineering, Brno university of technology, Czech Republic. 
+- 👋 Hi, I’m @JakubBrazina currently doing Ph.D. on the Institute of production machines, systems and robotics, Faculty of mechanical engineering, Brno university of technology, Czech Republic. 
 - 👀 I’m interested in Industry 4.0 applications like industrial robotics and automation, data collection, virtual commissioning and digital twins.
 - On the other hand I'm also interested in programming of the web applications on C#.NET (Blazor, REST APIs, etc.) 
 - Everything I'm interested in is to be able deliver solution and choose appropriate technologies for any industrial eterprise
