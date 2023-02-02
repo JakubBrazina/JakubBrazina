@@ -1,1 +1,214 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T09:00:45.927Z" agent="5.0 (Windows)" etag="3Cx8yCL8rCc__fuh6v_b" version="20.8.15" type="github"><diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">7Vtbc6M2FP41fkyGO/gx2M5m2nSaNjvp9mlHBhnTAGJATuz99ZVAYJB8IQSCd0MeMujo6ILOp+98EslEnYXbLwmI138gFwYTRXK3E3U+URTT0slvatjlBtWSc4OX+G5uqhge/R+QGSVm3fguTGuOGKEA+3Hd6KAogg6u2UCSoNe62woF9VFj4EHB8OiAQLT+47t4zayyJO0r7qDvrdnQls4qlsB59hK0idh4EYpgXhOCohvmmq6Bi14rJnUxUWcJQjh/CrczGNBVLVYsb3d7pLaccgIj3KiBszQ0FVjTpela1tS9khU2Mbwr1gG6ZFlYESV4jTwUgWCxt9rZu0LapURKaxwG5FEmj3Dr4weY+CHEMGHVZGbJ7lu18C8tXOtFkW8QgCUM7HJNZyhAtCpbVdVOMUjwDQ03Z7v1g4D1kJUZwPJhXK4FsVT8Sani/R/EeMfKYIMRMe2X4R6hmL1sihP0XEKFWlYowrcg9AO6A55g4oIIMDPrjyy3aotBY3FM0SZxWBSeNk8Pj/rvv9l/or/s6C7aWYuXKxYs8noexEciynxoFCudMzh8gYgsdbIjDgkMAPZf6uAHbA95pd8eTOSB4akptvI+X0CwYaNoBJ0GCMkK2tEyjbO1MALyJvaSPHj0YTJbTG6mhZmMua/hgfoCE+yT/XtPAfOAUh/7KCJVS4QxCmmEit1Gg+yCdF1iFgS+R10dEgIKvCqIi25vmA+mET8QbdJ7TGcSbj3Kh9cwIKyU0JbXCUz9FKMkLZ++K7V9Q9s7KPSdRphvhKtjoKKvA7cnocBqVYX1wghcLljrtUKHBRuuK0xY+HWLHr1rZvpWea5w0AHOGinoDdRS56ODvPVeCmJNH5BPplvi1ZA5vJocDvN5sVZ7KJJAgF3FLaYO6fFxdIsbR+WS7Dl/U+J2Qj6D/b4o16TdVlEEolVGor1gotWMiyJadSTanoi2FcuqDUnVuhihpwr8Y478c8H8wwu98gg+DP9oI/9cmNDTLkzoFcKuyJfWxwg94TZlaKGnjULvpyJaXugNTLSSEPD3EO14r/dmrXeQMzWRW49dpXWn9VrxozLleNg8zY+Cv9ozP8ryiPDB1URrkKu/BMg50dA9yHVBBOijCOhNBJwAfXMdIPMXPsaQOmDax3lLGs9bLe97jIZnK/0i6FHm7g5UqWe6M8Yzz0915uG5rsyPg3Cd1QfXNbtbKuVjqSU/t3xsRY5mA91odE2M7U/YxphaLxA9F3OP+UEfrA31ZI4+69/7PaYp5nTK/tJTr9l5RaBbbAsXrsAmEwfd5uzQTx3y8iCCaJNehyhCtPh9CTCZw67/w8oq8OM71nkHyVzTuGRuNkzmRgfJ/PjOrEFHlHRFfF7BLtsqNGTPEDtrttIUCAUnpyig49lpvogGeczawGTxAukuy9eSbTnSvW5P9DmHJhYjKtN+gGXWr5TFGgNcKccVys5RWSFxO41A/BXlW/MkHmPg+JFnsx2QU3du+5qx7JX+1sOtAIgDsDmKEX3KsYcuYkQ7ABGtL4goAkRmI0QGhYimqHWIHPgO8qEQEf9iYeBzwidTcwWqBGX2VoXXVNApvQg6jbsMkVXpWqr+GPUe81cR9J3YL39feKbfI7qxhVQ7dXlf2S03I6EOSqgKp8sGz7niR4nFp4FI6LtulhDOokRqDpKAO/CUp5hjJ6JyFsW5J4ArvJ/A3wwElTndZw7Z2nYASVnijgrF33UNBUmzy5T+y+fjsx+759tq5Xx3Sr20S+6niOXkBaDeRXJ/74eQk5cmYmuTu6KRuW3QVCrI3N0NObJ/qDawBOKffxriv0xtwItSRRpYG3T6vXkk4oGI2GpAxFo/pyye4tSWXKnpZzpqzZWkuP8n7tx9/z/y6uJ/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-02T09:53:22.956Z" agent="5.0 (Windows)" etag="ndZlWuVgiy5BTt5pNtpP" version="20.8.15" type="github">
+  <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
+    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EilPltGEjCX7nU-MFNb4-2" value="Tool_Open" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="730" y="50" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-6" value="Tool_Close" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="730" y="110" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-7" value="&lt;div&gt;ToolChange_Open&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="730" y="180" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-8" value="ToolChange_Close" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="730" y="240" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-9" value="Tool_Opened" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.contact;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1370" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-10" value="Tool_Closed" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.contact;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1430" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-11" value="Řízení pneumatiky" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-12" value="15 pin connector" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="880" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-13" value="T1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.contact;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1560" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="342.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-14" value="24V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="532.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-15" value="0V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-16" value="T2" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.contact;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1620" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-17" value="T3" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.contact;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1680" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-18" value="&lt;div&gt;Nástrojová logika:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;T1 = 001&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;T2 = 010&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;T3 = 100&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;T4 = 011&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;T5 = 101&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;T6 = 110&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;T7 = 111&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="1450" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-19" value="24V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="725" y="980" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-20" value="T_on" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.contact;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1500" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-22" value="0V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1210" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-35" value="24V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="725" y="920" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-36" value="Svorkovnice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-37" value="24V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-38" value="24V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-39" value="0V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1150" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-40" value="0V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="575" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-41" value="0V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="635" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="722.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-42" value="T_Opened" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="710" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="788" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-43" value="T_Closed" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="775" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="852.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-44" value="T_CH_Opened" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="840" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="922.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-45" value="T_CH_Closed" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="910" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1042.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-46" value="T1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1030" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1092.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-47" value="T2" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1080" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1152.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-48" value="T3" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1140" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="982.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-49" value="T_on" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="970" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-50" value="24V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1095" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-51" value="24V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1035" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-52" value="0V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1320" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-53" value="0V" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1260" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-54" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-14" target="EilPltGEjCX7nU-MFNb4-38">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="300" y="350" as="sourcePoint" />
+            <mxPoint x="400" y="350" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-55" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-15" target="EilPltGEjCX7nU-MFNb4-41">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="490" y="570" as="sourcePoint" />
+            <mxPoint x="590" y="570" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1220.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-67" value="T_Open" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1208" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1270.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-69" value="T_Close" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1258" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1403" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-71" value="T_CH_Close" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1390" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EilPltGEjCX7nU-MFNb4-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1340.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EilPltGEjCX7nU-MFNb4-73" value="T_CH_Open" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.output_2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1328" width="50" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
